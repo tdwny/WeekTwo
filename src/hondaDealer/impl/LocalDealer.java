@@ -18,7 +18,7 @@ public class LocalDealer implements Dealer {
         this.motorcycleInventory = motorcycleInventory;
     }
 
-    //Methods
+    //Method
     @Override
     public String sellVehicles() {
         return "This Dealer sells Honda vehicles";
