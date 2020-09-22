@@ -1,5 +1,3 @@
-package test;
-
 import hondaProducts.impl.Car;
 import hondaProducts.impl.Motorcycle;
 import org.junit.Before;
